@@ -32,7 +32,11 @@ Our World in Data - Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global d
  
 ## Contributions
 All - ideation and discussion of revisions to app model and appearance
+
 Zach Murphy - conducted cross-correlation analysis 
+
 Neha Anand -  shiny app layout and interactive components of the Graph Trends tab
+
 John Morkos - created interactive Heat Map tab
+
 Thomas Le - data scraping of google trends and write-up of explanation of app
