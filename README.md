@@ -29,3 +29,10 @@ Google Search Trends are normalized from 0-100 within the region of interest (in
 ## Data sources 
 Our World in Data - Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021). https://doi.org/10.1038/s41562-021-01122-8
 <p>Google Search Trends data downloaded using the gtrendsR R package - https://cran.r-project.org/web/packages/gtrendsR/gtrendsR.pdf
+ 
+## Contributions
+All - ideation and discussion of revisions to app model and appearance
+Zach Murphy - conducted cross-correlation analysis 
+Neha Anand -  shiny app layout and interactive components of the Graph Trends tab
+John Morkos - created interactive Heat Map tab
+Thomas Le - data scraping of google trends and write-up of explanation of app
